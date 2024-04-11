@@ -9,6 +9,10 @@
 
 💡 Passionate about leveraging technology to automate processes and improve efficiency, I excel in data analysis using SQL, Excel, and PowerBI. I'm also proficient in project management tools like Confluence and JIRA, ensuring seamless collaboration and effective sprint planning.
 
+🎓 Microsoft Certified Generative AI Professional  
+
+🚀 Atlassian Certified Agile Project Management Professional, dedicated to delivering excellence in every project endeavor.
+
 🌱 I’m currently learning Python and Generative AI
 
 📊 Let's chat about business analysis, requirement gathering, data analytics, and project management methodologies. 
