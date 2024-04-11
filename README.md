@@ -1,3 +1,8 @@
+
+# Hi 👋, I'm Vidyalaxmi! 
+
+**Innovative Strategist & Business Analyst: Empowering Projects with Data-Driven Excellence**
+
 👩‍💼 Excited to streamline project processes and drive success! With over 3 years of experience as a Business Analyst, I've honed my skills in strategic planning, stakeholder management, Project management and data analysis.
 
 🔍 Currently, I'm focusing on enhancing project efficiency through agile methodologies and data-driven insights. 
